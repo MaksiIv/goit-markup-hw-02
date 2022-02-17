@@ -178,12 +178,15 @@ a {
   background-color: #2f303a;
   height: 252px;
 }
+
 .footer-logo-section {
-  padding: 60px 0 20px 215px;
+  padding-top: 60px;
 }
+
 .footer-address-section {
-  padding: 0px 0 60px 215px;
+  padding-top: 20px;
 }
+
 .footer-logo {
   font-family: Raleway;
   font-weight: 700d;
