@@ -201,6 +201,11 @@ a {
   line-height: 1.71;
   color: var(--primary-bg-color);
 }
+
+.footer-address-item {
+  color: var(--primary-bg-color);
+}
+
 .footer-contacts {
   color: rgba(255, 255, 255, 0.6);
 }
