@@ -14,7 +14,6 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  font-style: normal;
   background-color: var(--primary-bg-color);
   color: var(--secondary-text-color);
   letter-spacing: 0.03em;
@@ -65,7 +64,11 @@ a {
 .header-contacts-list:focus,
 .order-button:focus,
 .footer-logo:hover,
-.footer-logo:focus {
+.footer-logo:focus,
+.footer-address-item:hover,
+.footer-address-item:-moz-focusring,
+.footer-contacts:hover,
+.footer-contacts:focus {
   color: var(--accent-color);
 }
 
