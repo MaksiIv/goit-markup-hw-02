@@ -66,7 +66,7 @@ a {
 .footer-logo:hover,
 .footer-logo:focus,
 .footer-address-item:hover,
-.footer-address-item:-moz-focusring,
+.footer-address-item:focus,
 .footer-contacts:hover,
 .footer-contacts:focus {
   color: var(--accent-color);
